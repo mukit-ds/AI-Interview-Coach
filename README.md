@@ -45,6 +45,8 @@
 
 ##  👤 Author
 Abdul Mukit
-🔗 LinkedIn
+
+🔗 [LinkedIn](https://www.linkedin.com/in/abdulmukitds/)
+
 📧 Feel free to connect and collaborate!
 
