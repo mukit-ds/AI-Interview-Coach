@@ -9,7 +9,7 @@ import os
 llm = HuggingFaceEndpoint(
     repo_id='HuggingFaceH4/zephyr-7b-beta',
     task='text-generation',
-    huggingfacehub_api_token="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"  # Secure with env in production
+    huggingfacehub_api_token="########"  
 )
 model = ChatHuggingFace(llm=llm)
 parser = StrOutputParser()
